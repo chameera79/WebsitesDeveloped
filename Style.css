@@ -1,0 +1,73 @@
+@charset "utf-8";
+
+body {
+    background-image: url("Elegant_Background-8.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+        
+}
+		
+.wrapper
+{
+	width: 600px;
+	height: 460px;
+	margin: 0 auto;	
+	background-color:#F99;
+
+}
+
+.d1
+{
+	
+	width: 400px;
+	height: 330px;
+	margin: 0 auto;
+	background-color:#C00;
+	
+}
+
+input[type=text]
+{
+    width: 270px;
+	height:45px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input[type=password]
+{
+    width: 270px;
+	height:45px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input[type=submit]
+{
+	background-color:#03D6C0;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    
+    font-size: 14px;
+	font-weight:bold;
+	
+	
+}
+
+input[type=checkbox]
+{
+	text-align:left;
+	}
+	
+#form1 label
+{
+	color:#E81B15;
+	
+
+}
+	

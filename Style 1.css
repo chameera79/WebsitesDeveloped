@@ -1,0 +1,120 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background-image: url("Elegant_Background-8.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	
+        
+}
+
+.d1
+{
+	width:550px;
+	height:630px;
+	margin: 0 auto;	
+	background-color:#EC4A63;
+	font-family:Tahoma, Geneva, sans-serif;
+	border-color:#FFF;
+	
+
+}
+
+.d2
+{
+	background-color:#010513;
+	width:550px;
+	height:530px;
+
+  
+}
+
+input[type=text]
+{
+    width: 340px;
+	height:35px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border-radius: 4px;
+}
+
+input[type=date]
+{
+    width: 340px;
+	height:35px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border-radius: 4px;
+}
+
+input[type=password]
+{
+    width: 340px;
+	height:35px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border-radius: 4px;
+}
+
+
+
+input[type=email]
+{
+    width: 340px;
+	height:35px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border-radius: 4px;
+}
+
+input[type=tel]
+{
+    width: 340px;
+	height:35px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border-radius: 4px;
+}
+
+label.te {
+	color:#FFFA17;
+	display: block;
+    text-align:right;
+    line-height:150%;
+    font-size:14px;
+	width:150px;
+}
+
+input[type=button]
+{
+	background-color:#EC4A63;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 14px;
+	
+}
+
+input[type=submit]
+{
+	background-color:#40AA00;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 14px;
+	
+}
+
+

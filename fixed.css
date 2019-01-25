@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+html,body
+{
+	height:100%;
+	}
+	
+.nav
+{
+	position:fixed;
+	height:50px;
+	width:100%;
+	background-color:rgba(0,0,0,5);
+	z-index:99;
+		
+	}
+h1,h2,h3,h4,h5,h6,p
+{
+	margin-bottom:20px;
+	}
+
+	
+.sect
+{
+	height:100%;
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	
+	}
+.subsection
+{
+	height:50%;
+	background-color:bisque;
+	background-size:cover;
+	background-repeat:no-repeat;
+
+	}
+.sectOne
+{
+	background-image:url(wiesmann.jpg);
+	
+	}
+.sectTwo
+{
+	background-image:url(WIESMANN-GT-MF4-CS-4971_5.jpg);
+	background-repeat:no-repeat;
+
+	}
+
+.sectThree
+{
+	background-image:url(WIESMANN-GT-MF4-CS-4971_9.jpg);
+	background-repeat:no-repeat;
+
+	}
+
